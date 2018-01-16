@@ -10,4 +10,4 @@ while REMAINING_ITERATIONS != 0:
     REMAINING_ITERATIONS -= 1
 
 print('time is up')
-cd
+
